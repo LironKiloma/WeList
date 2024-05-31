@@ -8,6 +8,7 @@
     "title": "Welcome to WeList"
   },
   "myListsPage": {
-    "title": "My Lists"
+    "title": "My Lists",
+    "sharedWith": "Shared With"
   }
 }

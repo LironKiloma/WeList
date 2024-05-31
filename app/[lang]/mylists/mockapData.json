@@ -1,0 +1,56 @@
+{
+    "lists": [
+        {
+            "id": 0,
+            "name": "Shirazi's Groceries",
+            "sharedWith": [
+                {
+                    "name": "Shira",
+                    "email": "shiraco44@gmail.com"
+                }
+            ],
+            "categories": [
+                {
+                    "id": 1928719,
+                    "name": "Dairy"
+                },
+                {
+                    "id": 2977468,
+                    "name": "Other"
+                }
+            ],
+            "items": [
+                {
+                    "id": 111,
+                    "categoryId": 1928719,
+                    "description": "Milk"
+                },
+                {
+                    "id": 123,
+                    "categoryId": 1928719,
+                    "description": "Yogurt"
+                },
+                {
+                    "id": 827,
+                    "categoryId": 1928719,
+                    "description": "Cheese"
+                },
+                {
+                    "id": 453,
+                    "categoryId": 2977468,
+                    "description": "Shoes"
+                },
+                {
+                    "id": 981,
+                    "categoryId": 2977468,
+                    "description": "Garlic"
+                },
+                {
+                    "id": 284,
+                    "categoryId": 2977468,
+                    "description": "Gluten-Free Bread"
+                }
+            ]
+        }
+    ]
+}
