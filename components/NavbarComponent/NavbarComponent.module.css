@@ -1,0 +1,35 @@
+.navbarContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #f8f9fa;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+}
+
+.linkItem {
+  text-decoration: none;
+}
+
+.rightPartLinks {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 9rem;
+}
+
+.leftPartLinks {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 12rem;
+}
+
+.he {
+  direction: rtl;
+}
+
+.en {
+  direction: ltr;
+}

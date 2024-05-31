@@ -1,0 +1,13 @@
+{
+  "NavbarComponent": {
+    "home": "Home",
+    "myLists": "My Lists",
+    "signIn": "Sign in"
+  },
+  "homePage": {
+    "title": "Welcome to WeList"
+  },
+  "myListsPage": {
+    "title": "My Lists"
+  }
+}

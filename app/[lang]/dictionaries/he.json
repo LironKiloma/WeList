@@ -1,0 +1,13 @@
+{
+  "NavbarComponent": {
+    "home": "דף הבית",
+    "myLists": "הרשימות שלי",
+    "signIn": "התחברות"
+  },
+  "homePage": {
+    "title": "ברוכים הבאים לאפליקציית הרשימות WeList"
+  },
+  "myListsPage": {
+    "title": "הרשימות שלי"
+  }
+}
